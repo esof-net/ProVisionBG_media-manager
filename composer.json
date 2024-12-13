@@ -1,4 +1,5 @@
 {
+  "version": "5.6.x-dev",  
   "name": "provision/media-manager",
   "description": "ProVision Administration media manager",
   "keywords": [
@@ -19,7 +20,7 @@
   },
   "homepage": "http://provision.bg",
   "require": {
-    "provision/administration": "v5.5.x-dev"
+    "provision/administration": "v5.6.x-dev"
   },
   "autoload": {
     "psr-4": {
